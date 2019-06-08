@@ -1,5 +1,5 @@
 // Data structure to store friends data
-var friendsArray = [
+var friends = [
 	{
 		name: 'Spiderman',
 		photo: 'https://static.comicvine.com/uploads/scale_small/8/80103/6197311-c6d76a022f2dcf57c29e2ef87a3c7d47.jpg',
@@ -162,4 +162,4 @@ var friendsArray = [
 	}
 ];
 
-module.exports = friendsArray;
+module.exports = friends;
