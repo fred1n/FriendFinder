@@ -19,7 +19,7 @@ module.exports = function(app) {
 
     // default friend match is the first friend but result will be whoever has the minimum difference in scores
     var bestFriendIndex = 0;
-    var minimumDifference = 25;
+    var minimumDifference = 40;
 
     // in this for-loop, start off with a zero difference and compare the user and the ith friend scores, one set at a time
     //  whatever the difference is, add to the total difference
