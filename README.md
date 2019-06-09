@@ -31,4 +31,4 @@ Express is a minimal and flexible Node.js web application framework that provide
 ![Survey Image](/images/survey.png)
 
 * `Friend Finder image` - displays the friend found based on the survey questions
-![Survey Image](/images/survey.png)
+![Survey Image](/images/chosenfriend.png)
